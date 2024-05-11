@@ -34,7 +34,6 @@
   },
   "name":"ThothJourney",
   "resources":[
-    {"id":{"name":"objThoth","path":"objects/objThoth/objThoth.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "resourceType":"GMProject",
