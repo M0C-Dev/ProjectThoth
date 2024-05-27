@@ -3,5 +3,8 @@
 
 // Inherit the parent event
 event_inherited();
-
-room_goto(rmJogo)
+if !instance_exists(oWarp) 
+	{
+		var inst = instance_create_depth(0, 0, -9999, oWarp);
+		inst.target_r = rmJogo;
+	}
