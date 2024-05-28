@@ -19,7 +19,7 @@
           1,0,-17,-2147483648,1,0,-60,-2147483648,1,10,-15,-2147483648,3,10,2,9,-15,-2147483648,4,16,13,12,3,-12,
           -2147483648,6,2,12,9,-2147483648,5,5,-11,-2147483648,3,2,9,5,
         ],"TileDataFormat":1,},"tilesetId":{"name":"tCanosMenu","path":"tilesets/tCanosMenu/tCanosMenu.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
-    {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.5,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"sBgOptions","path":"sprites/sBgOptions/sBgOptions.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.5,"vtiled":true,"x":0,"y":0,},
+    {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.5,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"sBgOptions","path":"sprites/sBgOptions/sBgOptions.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":-0.5,"vtiled":true,"x":0,"y":0,},
   ],
   "name":"rmOptions",
   "parent":{
