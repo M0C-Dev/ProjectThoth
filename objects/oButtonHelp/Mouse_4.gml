@@ -4,4 +4,4 @@
 // Inherit the parent event
 event_inherited();
 
-url_open("https://www.cps.sp.gov.br/etec/");
+url_open("https://github.com/M0C-Dev/ProjectThoth");
