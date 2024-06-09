@@ -38,12 +38,11 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.4.1.152",
   },
   "name":"ThothJourney",
   "resources":[
     {"id":{"name":"fMenu","path":"fonts/fMenu/fMenu.yy",},},
-    {"id":{"name":"config","path":"objects/config/config.yy",},},
     {"id":{"name":"oButtonBack","path":"objects/oButtonBack/oButtonBack.yy",},},
     {"id":{"name":"oButtonHelp","path":"objects/oButtonHelp/oButtonHelp.yy",},},
     {"id":{"name":"oButtonOptions","path":"objects/oButtonOptions/oButtonOptions.yy",},},
@@ -56,7 +55,10 @@
     {"id":{"name":"oWarp","path":"objects/oWarp/oWarp.yy",},},
     {"id":{"name":"rmMenu","path":"rooms/rmMenu/rmMenu.yy",},},
     {"id":{"name":"rmOptions","path":"rooms/rmOptions/rmOptions.yy",},},
+    {"id":{"name":"rmRegionDesert","path":"rooms/rmRegionDesert/rmRegionDesert.yy",},},
     {"id":{"name":"rmRegions","path":"rooms/rmRegions/rmRegions.yy",},},
+    {"id":{"name":"Inicializar","path":"scripts/Inicializar/Inicializar.yy",},},
+    {"id":{"name":"Script2","path":"scripts/Script2/Script2.yy",},},
     {"id":{"name":"sBackButton","path":"sprites/sBackButton/sBackButton.yy",},},
     {"id":{"name":"sBgMain","path":"sprites/sBgMain/sBgMain.yy",},},
     {"id":{"name":"sBgOptions","path":"sprites/sBgOptions/sBgOptions.yy",},},
@@ -80,6 +82,7 @@
     {"roomId":{"name":"rmMenu","path":"rooms/rmMenu/rmMenu.yy",},},
     {"roomId":{"name":"rmRegions","path":"rooms/rmRegions/rmRegions.yy",},},
     {"roomId":{"name":"rmOptions","path":"rooms/rmOptions/rmOptions.yy",},},
+    {"roomId":{"name":"rmRegionDesert","path":"rooms/rmRegionDesert/rmRegionDesert.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
