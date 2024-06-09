@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"ConfigButtons",
-    "path":"folders/Objetos/ConfigButtons.yy",
+    "path":"folders/Objetos/MainMenu/ConfigButtons.yy",
   },
   "parentObjectId":null,
   "persistent":true,

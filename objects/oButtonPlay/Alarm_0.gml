@@ -6,5 +6,5 @@ event_inherited();
 if !instance_exists(oWarp) 
 	{
 		var inst = instance_create_depth(0, 0, -9999, oWarp);
-		inst.target_r = rmJogo;
+		inst.target_r = rmRegions;
 	}
