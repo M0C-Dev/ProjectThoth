@@ -1,0 +1,16 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Level","order":4,"path":"folders/Sprites/Level.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_camera","order":3,"path":"objects/obj_camera/obj_camera.yy",},
+    {"name":"obj_chao","order":2,"path":"objects/obj_chao/obj_chao.yy",},
+    {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"Room9","order":1,"path":"rooms/Room9/Room9.yy",},
+    {"name":"spr_chao","order":2,"path":"sprites/spr_chao/spr_chao.yy",},
+    {"name":"spr_thoth","order":1,"path":"sprites/spr_thoth/spr_thoth.yy",},
+    {"name":"Sprite28","order":3,"path":"sprites/Sprite28/Sprite28.yy",},
+    {"name":"Sprite30","order":1,"path":"sprites/Sprite30/Sprite30.yy",},
+    {"name":"tl_plantas","order":1,"path":"tilesets/tl_plantas/tl_plantas.yy",},
+  ],
+}

@@ -1,0 +1,2 @@
+//Definindo alvo
+alvo = noone

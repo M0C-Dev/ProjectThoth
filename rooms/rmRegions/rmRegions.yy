@@ -1,5 +1,5 @@
 {
-  "$GMRoom":"",
+  "$GMRoom":"v1",
   "%Name":"rmRegions",
   "creationCodeFile":"",
   "inheritCode":false,
@@ -15,20 +15,20 @@
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances_1","depth":0,"effectEnabled":true,"effectType":null,"gridX":16,"gridY":16,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"","%Name":"inst_48B54B98","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_48B54B98","objectId":{"name":"oButtonBack","path":"objects/oButtonBack/oButtonBack.yy",},"properties":[
+        {"$GMRInstance":"v1","%Name":"inst_48B54B98","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_48B54B98","objectId":{"name":"oButtonBack","path":"objects/oButtonBack/oButtonBack.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oButtonBack","path":"objects/oButtonBack/oButtonBack.yy",},"propertyId":{"name":"roomT","path":"objects/oButtonBack/oButtonBack.yy",},"resource":{"name":"rmMenu","path":"rooms/rmMenu/rmMenu.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rmMenu",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":16.0,"y":16.0,},
-        {"$GMRInstance":"","%Name":"inst_481B9A2F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_481B9A2F","objectId":{"name":"oRegion","path":"objects/oRegion/oRegion.yy",},"properties":[
+        {"$GMRInstance":"v1","%Name":"inst_481B9A2F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_481B9A2F","objectId":{"name":"oRegion","path":"objects/oRegion/oRegion.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oRegion","path":"objects/oRegion/oRegion.yy",},"propertyId":{"name":"region","path":"objects/oRegion/oRegion.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"0",},
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oRegion","path":"objects/oRegion/oRegion.yy",},"propertyId":{"name":"destino","path":"objects/oRegion/oRegion.yy",},"resource":{"name":"rmRegionDesert","path":"rooms/rmRegionDesert/rmRegionDesert.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rmRegionDesert",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":80.0,"y":64.0,},
-        {"$GMRInstance":"","%Name":"inst_35D231D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_35D231D","objectId":{"name":"oRegion","path":"objects/oRegion/oRegion.yy",},"properties":[
+        {"$GMRInstance":"v1","%Name":"inst_35D231D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_35D231D","objectId":{"name":"oRegion","path":"objects/oRegion/oRegion.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oRegion","path":"objects/oRegion/oRegion.yy",},"propertyId":{"name":"region","path":"objects/oRegion/oRegion.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"1",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":208.0,"y":64.0,},
-        {"$GMRInstance":"","%Name":"inst_2DA7398","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2DA7398","objectId":{"name":"oRegion","path":"objects/oRegion/oRegion.yy",},"properties":[
+        {"$GMRInstance":"v1","%Name":"inst_2DA7398","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2DA7398","objectId":{"name":"oRegion","path":"objects/oRegion/oRegion.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oRegion","path":"objects/oRegion/oRegion.yy",},"propertyId":{"name":"region","path":"objects/oRegion/oRegion.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"2",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":80.0,"y":160.0,},
-        {"$GMRInstance":"","%Name":"inst_47AE14EF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_47AE14EF","objectId":{"name":"oRegion","path":"objects/oRegion/oRegion.yy",},"properties":[
+        {"$GMRInstance":"v1","%Name":"inst_47AE14EF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_47AE14EF","objectId":{"name":"oRegion","path":"objects/oRegion/oRegion.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oRegion","path":"objects/oRegion/oRegion.yy",},"propertyId":{"name":"region","path":"objects/oRegion/oRegion.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"3",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":208.0,"y":160.0,},
       ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
