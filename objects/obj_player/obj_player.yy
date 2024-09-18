@@ -31,10 +31,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":true,
-  "spriteId":{
-    "name":"spr_thoth",
-    "path":"sprites/spr_thoth/spr_thoth.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
